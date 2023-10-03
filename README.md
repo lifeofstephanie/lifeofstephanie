@@ -1,5 +1,7 @@
 I'm a python dveloper, Frontend Developer and tech enthusiast! 😃
 
+![](https://github.com/lifeofstephanie/stephanieAnyanwu/blob/main/alot_of_work_emoticons_by_phaethorn.gif)
+
 - 👋 Hi, I’m Sephanie Anyanwu
 - 🎉 I am currently an ALX scholar
 - 👗 Pronouns - She/Her
