@@ -15,11 +15,7 @@ Connect With Me: 🤝
 🔗 Twitter: https://www.twitter.com/lifeofstephhh
 
 Languages and Tools: 🧑‍💻
-![](https://github.com/lifeofstephanie/lifeofstephanie/blob/main/python.svg)
-![](https://github.com/lifeofstephanie/lifeofstephanie/blob/main/css3.svg)
-![](https://github.com/lifeofstephanie/lifeofstephanie/blob/main/html5.svg)
-![](https://github.com/lifeofstephanie/lifeofstephanie/blob/main/figma.svg)
-![](https://github.com/lifeofstephanie/lifeofstephanie/blob/main/javascript.svg)
+
 
 
 <!---
