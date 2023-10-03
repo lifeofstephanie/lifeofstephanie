@@ -11,10 +11,15 @@ I'm a python dveloper, Frontend Developer and tech enthusiast! 😃
 - 📫 How to reach email:stephanieanyanwu605@gmail.com
 
 Connect With Me: 🤝
-
+🔗 Linkedin: https://www.linkedin.com/in/lifeofstephanie
+🔗 Twitter: https:// www.twitter,com/lifeofstephhh
 
 Languages and Tools: 🧑‍💻
-
+- Python
+- CSS
+- HTML
+- FIGMA
+- JS
 
 
 <!---
