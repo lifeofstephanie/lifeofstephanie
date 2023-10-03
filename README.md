@@ -12,7 +12,7 @@ I'm a python dveloper, Frontend Developer and tech enthusiast! 😃
 
 Connect With Me: 🤝
 🔗 Linkedin: https://www.linkedin.com/in/lifeofstephanie
-🔗 Twitter: https:// www.twitter,com/lifeofstephhh
+🔗 Twitter: https://www.twitter.com/lifeofstephhh
 
 Languages and Tools: 🧑‍💻
 - Python
