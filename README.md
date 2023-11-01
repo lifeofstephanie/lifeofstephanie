@@ -1,6 +1,8 @@
 I'm a python dveloper, Frontend Developer and tech enthusiast! 😃
 
-![](https://github.com/lifeofstephanie/stephanieAnyanwu/blob/main/alot_of_work_emoticons_by_phaethorn.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 👋 Hi, I’m Sephanie Anyanwu
 - 🎉 I am currently an ALX scholar
