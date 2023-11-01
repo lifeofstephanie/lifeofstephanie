@@ -51,7 +51,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lifeofstephanie)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lifeofstephanie&theme=garden&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!---
 stephanieAnyanwu/stephanieAnyanwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
