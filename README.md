@@ -36,7 +36,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🏫 I am currently an ALX scholar
 -  Pronouns - She/Her
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on games using Python
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach email:stephanieanyanwu605@gmail.com
 
 
