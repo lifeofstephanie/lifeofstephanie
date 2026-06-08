@@ -1,0 +1,43 @@
+# This workflow automatically generates a snake game from your contribution graph
+
+name: Generate Snake
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Triggers the workflow on push events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generates the snake animation files (.svg format)
+      - name: Generate Snake Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Takes the generated files and pushes them to a separate branch called 'output'
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
