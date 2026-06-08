@@ -7,7 +7,7 @@ I'm a Mobile and Web Developer and tech enthusiast! 😃
   <a href="https://www.linkedin.com/in/lifeofstephanie">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/_.lifeostephanie">
+  <a href="https://www.instagram.com/_thattechgirly">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href=" https://www.twitter.com/lifeofstephhh">
@@ -30,12 +30,13 @@ I'm a Mobile and Web Developer and tech enthusiast! 😃
 ---
 
 ### :woman_technologist: About Me :
-I am a Senior FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria passionate about building high-quality web and mobile applications. I enjoy creating intuitive user experiences, writing clean and maintainable code, and solving real-world problems through technology.
 
-- 🔭 Hi, I’m Sephanie Anyanwu
--  Pronouns - She/Her
-- 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on Next js and React Native projects
+### About Me
+- 🔭 Currently building web and mobile applications
+- 🌱 Exploring intelligent systems and scalable software architecture
+- 👯 Open to collaborating on React, React Native, and Node.js projects
+- 💡 Interested in mobile development, offline-first systems, and product development
 - 📫 How to reach email:anyanwuchimzitalu@gmail.com
 
 
@@ -49,6 +50,9 @@ I am a Senior FullStack Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
@@ -65,11 +69,6 @@ I am a Senior FullStack Developer <img src="https://media.giphy.com/media/WUlplc
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lifeofstephanie&theme=garden&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!---
-stephanieAnyanwu/stephanieAnyanwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofstephanie&hide=javascript,css,scss,html&theme=tokyonight&show_icons=true)](https://github.com/lifeofstephanie)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofstephanie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Strike Snake](https://raw.githubusercontent.com/lifeofstephanie/lifeofstephanie/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lifeofstephanie&theme=react-dark)
 
